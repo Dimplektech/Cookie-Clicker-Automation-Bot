@@ -20,8 +20,8 @@ This project is a Python script that automates the Cookie Clicker game using Sel
 
 1. **Clone the repository or download the script**:
     ```bash
-    git clone https://github.com/your-username/cookie-clicker-bot.git
-    cd cookie-clicker-bot
+    git clone https://github.com/Dimplektech/Cookie-Clicker-Automation-Bot.git
+    
     ```
 
 2. **Install the required Python packages**:
